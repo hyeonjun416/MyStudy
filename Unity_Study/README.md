@@ -25,3 +25,5 @@
 2. OnTriggerStay : 충돌하는 동안
 3. OnTriggerExit : 충돌했다가 분리되는 순간
 
+
+
